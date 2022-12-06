@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ummabashir
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on web design projects
+- 👀 I’m interested in Data analysis
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me khairiyyabashir87@gmail.com
 
 <!---
